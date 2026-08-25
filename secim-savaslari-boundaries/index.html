@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Seçim Savaşları — Sınır Verisi</title>
+  <style>
+    body { margin: 0; background: #0b1019; color: #f5f7fa; font: 16px/1.55 system-ui, sans-serif; }
+    main { max-width: 760px; margin: 0 auto; padding: 48px 24px 72px; }
+    h1 { color: #ffc23a; } h2 { margin-top: 2rem; color: #4dc9e8; }
+    a { color: #66d9ef; } code { overflow-wrap: anywhere; color: #dbe5ee; }
+    .card { background: #111927; border: 1px solid #26354c; border-radius: 12px; padding: 18px; margin: 12px 0; }
+  </style>
+</head>
+<body><main>
+  <p>SEÇİM SAVAŞLARI · VERİ VE ATTRIBUTION</p>
+  <h1>Türkiye idari sınır verisi</h1>
+  <p>Bu sayfa, oyunda kullanılan işlenmiş sınır verisini, kaynak GeoJSON dosyalarını ve yeniden üretim bilgisini HTTPS üzerinden sunar.</p>
+  <div class="card"><a href="data/secim-savaslari-processed-boundaries.zip">İşlenmiş Unity varlıklarını indir (ZIP)</a><br><small>81 il · 973 ilçe · SHA-256: <code>ce59637a0eaf2a75e90271b691fef2509f35297a94707c78611c3c831bc25252</code></small></div>
+  <div class="card"><a href="data/source/geoBoundaries-TUR-ADM1_simplified.geojson">ADM1 kaynak GeoJSON</a><br><a href="data/source/geoBoundaries-TUR-ADM2_simplified.geojson">ADM2 kaynak GeoJSON</a></div>
+  <div class="card"><a href="transform/TurkeyGeoJsonBatchImporter.cs">Dönüşüm algoritması</a><br><a href="transform/turkey-map-import.txt">Üretim ve doğrulama raporu</a></div>
+  <h2>Kaynak ve lisans</h2>
+  <p>ADM2 verisi geoBoundaries tarafından standartlaştırılan OpenStreetMap / OSM Boundaries verisine dayanır ve ODbL 1.0 kapsamındadır. ADM1 kaynak metadata lisansı CC BY-SA 2.0'dır.</p>
+  <p>Administrative boundaries © OpenStreetMap contributors, ODbL 1.0; standardized by geoBoundaries (www.geoboundaries.org).</p>
+  <p><a href="README.md">Tam dönüşüm ve checksum bilgisi</a></p>
+</main></body></html>

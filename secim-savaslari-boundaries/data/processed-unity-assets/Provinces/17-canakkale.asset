@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 17-canakkale
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 17
+  provinceId: tr-17
+  provinceNameKey: province.17
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 637344ceaa256d747b741b7e31ebd98f, type: 2}
+  - {fileID: 11400000, guid: b359546d843ae13458a4641f0928af0a, type: 2}
+  - {fileID: 11400000, guid: 2521a837a781f7942aedba367af8084f, type: 2}
+  - {fileID: 11400000, guid: 1c2542cccb7106b4597ba7c2f2a3ad1b, type: 2}
+  - {fileID: 11400000, guid: 3b0b3a94d2bd9aa4e9dc4a4ccd620452, type: 2}
+  - {fileID: 11400000, guid: 3bef4aa24f2fac8429539c7389e85338, type: 2}
+  - {fileID: 11400000, guid: c72ec3ec3b6abfe4ba73cd2ba9ecead6, type: 2}
+  - {fileID: 11400000, guid: 1ea1ded7c85dd634a9f08fc2ab5efc25, type: 2}
+  - {fileID: 11400000, guid: d7ed68b4d9f11414c9ce2b22531e83b5, type: 2}
+  - {fileID: 11400000, guid: f13fdd7df2ab591408c052b5c1c9035d, type: 2}
+  - {fileID: 11400000, guid: 0f18582c48460014b9f49c328c1fcdb1, type: 2}
+  - {fileID: 11400000, guid: 9f2162d6ef5b0ac488facf72004379a3, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 5.423753
+  isFictionalTestData: 0

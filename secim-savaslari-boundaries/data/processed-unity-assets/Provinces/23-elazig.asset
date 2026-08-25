@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 23-elazig
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 23
+  provinceId: tr-23
+  provinceNameKey: province.23
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: ec64a02c13ee8c24fadb4cbdd4f7338a, type: 2}
+  - {fileID: 11400000, guid: 81137b0ec1868e54787baff8e293863b, type: 2}
+  - {fileID: 11400000, guid: 40703c34bbd58a7429988e1e79290700, type: 2}
+  - {fileID: 11400000, guid: 81b8013bd9c914e4cb0f1c329851096a, type: 2}
+  - {fileID: 11400000, guid: 3d3313503bdde3240a05478035030b63, type: 2}
+  - {fileID: 11400000, guid: 98dfe94030da65f438d6ec8c424107dd, type: 2}
+  - {fileID: 11400000, guid: a389f0ab4ea707849992516aa71cae3b, type: 2}
+  - {fileID: 11400000, guid: f2e96a55f6cd3f843a62797879f2ab84, type: 2}
+  - {fileID: 11400000, guid: fadb1e83a3364844aa8da3128df7f5e6, type: 2}
+  - {fileID: 11400000, guid: 26abcfa4f331ef84488a30c15cfa05f3, type: 2}
+  - {fileID: 11400000, guid: 5da2769dfe152ef48b5025e69d33b11b, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 5.6964993
+  isFictionalTestData: 0

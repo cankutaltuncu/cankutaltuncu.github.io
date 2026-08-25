@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 06-ankara
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 6
+  provinceId: tr-06
+  provinceNameKey: province.06
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 22b59f373ba77c94d8348224d3c529c7, type: 2}
+  - {fileID: 11400000, guid: 2df29aef9741dc941870bc2221757f83, type: 2}
+  - {fileID: 11400000, guid: fd5b5b545f2ac6f41bbec74fc241ff73, type: 2}
+  - {fileID: 11400000, guid: 1f5e2931533443e49848c770ca98d6a5, type: 2}
+  - {fileID: 11400000, guid: 7b5b75e56d0ec7948a403132eb1da643, type: 2}
+  - {fileID: 11400000, guid: 870640ea79a2e614288ec5eb3788cecf, type: 2}
+  - {fileID: 11400000, guid: ce36c0b095e68e24bb45d6c330ea8246, type: 2}
+  - {fileID: 11400000, guid: 9bec76601df012e43b16796b9a41e44c, type: 2}
+  - {fileID: 11400000, guid: 72a14a5afd5c7874bb86df9cb961b562, type: 2}
+  - {fileID: 11400000, guid: dbffe9afc19a22e4db5657b5af0bd9bd, type: 2}
+  - {fileID: 11400000, guid: 7932ae5e4e7302b43bd720779a3dbe79, type: 2}
+  - {fileID: 11400000, guid: e582622d6a5ea594a9e6be2a13c9dd25, type: 2}
+  - {fileID: 11400000, guid: d092a05c8befefa43b478dc72bb19999, type: 2}
+  - {fileID: 11400000, guid: 63a16c151c1f8d144ae58a944fb427d5, type: 2}
+  - {fileID: 11400000, guid: 9136a86ef556d3a4780dae291bc687ad, type: 2}
+  - {fileID: 11400000, guid: 68924fe4b40d660469d74fe99002598e, type: 2}
+  - {fileID: 11400000, guid: 169a867cd0ecd794e939c01d4ab56002, type: 2}
+  - {fileID: 11400000, guid: 1bf4563248d6a85489301e6409df7372, type: 2}
+  - {fileID: 11400000, guid: c3b8f634f7b9cd741b1b9ec626742a62, type: 2}
+  - {fileID: 11400000, guid: f55258aca19a2b34082e4446e7694628, type: 2}
+  - {fileID: 11400000, guid: 001b03e2a4995bb41a840f912bf2cf4b, type: 2}
+  - {fileID: 11400000, guid: 9d18a8a7775d77f44a3c710b6051e27f, type: 2}
+  - {fileID: 11400000, guid: fd70da2a1553db44e80ab902cc12b560, type: 2}
+  - {fileID: 11400000, guid: bb8f8c7610d83d64682dddd92d1c3254, type: 2}
+  - {fileID: 11400000, guid: 52530b418adc05045991801be592de03, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 8.781477
+  isFictionalTestData: 0

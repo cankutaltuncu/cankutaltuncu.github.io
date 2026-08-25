@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 70-karaman
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 70
+  provinceId: tr-70
+  provinceNameKey: province.70
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 02d918c08aaf8c24b8949a8bca7e1cb1, type: 2}
+  - {fileID: 11400000, guid: cedf1e1ad9a5918438b9af10257ac42b, type: 2}
+  - {fileID: 11400000, guid: 70d012a992350d84ba4c6657e24b5321, type: 2}
+  - {fileID: 11400000, guid: 572342e8a87f6384ba85092c72afb05e, type: 2}
+  - {fileID: 11400000, guid: 5c58049b0f3f0144cb7c602088c08d76, type: 2}
+  - {fileID: 11400000, guid: 952e8f364218aeb439def2c246fc10e4, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 5.153577
+  isFictionalTestData: 0

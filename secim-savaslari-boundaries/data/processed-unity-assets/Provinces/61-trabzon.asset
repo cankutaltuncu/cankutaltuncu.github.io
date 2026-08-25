@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 61-trabzon
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 61
+  provinceId: tr-61
+  provinceNameKey: province.61
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 70d9503bf2cd8f34a869c478740d7832, type: 2}
+  - {fileID: 11400000, guid: 7f958e4e5c2d8eb4eaee5fc5e4ada21f, type: 2}
+  - {fileID: 11400000, guid: b11587ba44266d94e8671d7d66f95dce, type: 2}
+  - {fileID: 11400000, guid: 5c6fbae4fe7a141449a447d137a1ac55, type: 2}
+  - {fileID: 11400000, guid: 55df89ee08e515a40936d51e1072a393, type: 2}
+  - {fileID: 11400000, guid: 2f5b3253ccb70564aaeb877282d9aa22, type: 2}
+  - {fileID: 11400000, guid: 0d8861c82fa987b4d9a70d7daaf80e6c, type: 2}
+  - {fileID: 11400000, guid: 2fe95cfa94d26d046a21be00c03c7026, type: 2}
+  - {fileID: 11400000, guid: 6886f62cf20a3f343b87b3f5660197fc, type: 2}
+  - {fileID: 11400000, guid: d869d49edf548d24bb1ac3d178beb0f5, type: 2}
+  - {fileID: 11400000, guid: a72cae418fadc4444bc128291529ce3c, type: 2}
+  - {fileID: 11400000, guid: 3b7fe4660e3abad4c8f8d8dd3fc96f67, type: 2}
+  - {fileID: 11400000, guid: 3f56a88f9308d854ebcb0f9122b18228, type: 2}
+  - {fileID: 11400000, guid: 3fc9a49db11bf3c44a1f4a598ed54270, type: 2}
+  - {fileID: 11400000, guid: 1d48566de15b5f84c959a606aa17d623, type: 2}
+  - {fileID: 11400000, guid: 9fc3913ae5b648d4dbe63343aef9049d, type: 2}
+  - {fileID: 11400000, guid: 03d48d26977105b4bbb191024f387400, type: 2}
+  - {fileID: 11400000, guid: c47317867f9a49d43a80f038489afd4b, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 3.9862795
+  isFictionalTestData: 0

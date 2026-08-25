@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 44-malatya
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 44
+  provinceId: tr-44
+  provinceNameKey: province.44
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 3ec0300276dd94b49b900d3871d5ed09, type: 2}
+  - {fileID: 11400000, guid: 75bc5643ab9819b4c8f6eff111cfbb0d, type: 2}
+  - {fileID: 11400000, guid: db1d9363f77429140894f6160fc35f1b, type: 2}
+  - {fileID: 11400000, guid: 68f9517dd0f32f94c8b7c77a12ba4b2a, type: 2}
+  - {fileID: 11400000, guid: a2b270fad66a6514aa91070cdb737501, type: 2}
+  - {fileID: 11400000, guid: 48c561bd32090fa4b93dc0bd03b93896, type: 2}
+  - {fileID: 11400000, guid: 23ab19310f10a7c488bc4330d3ca12a2, type: 2}
+  - {fileID: 11400000, guid: 714c2031f56cff5449575d74e416a3ac, type: 2}
+  - {fileID: 11400000, guid: fc9995083dec5944d887b1c4aab9192c, type: 2}
+  - {fileID: 11400000, guid: 25a354f146eb879468f6dd466f8f9069, type: 2}
+  - {fileID: 11400000, guid: a3673a3b45e956c459e92ff6c4642bd5, type: 2}
+  - {fileID: 11400000, guid: 50325ca3957ad7f4b98ba6d4bed45802, type: 2}
+  - {fileID: 11400000, guid: f95ce8438340a7e40b75511516f8809f, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 5.4449563
+  isFictionalTestData: 0

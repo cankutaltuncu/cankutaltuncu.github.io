@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 43-kutahya
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 43
+  provinceId: tr-43
+  provinceNameKey: province.43
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: feffbe8f6e1acdd49acd964cdacae847, type: 2}
+  - {fileID: 11400000, guid: 820ef411fc3ddaf48bd0193d7bb2feff, type: 2}
+  - {fileID: 11400000, guid: 8ec489bd3831dc94eb7499b98124f947, type: 2}
+  - {fileID: 11400000, guid: 9ff0d9cb1bc1157458ec5fd9f40b54ce, type: 2}
+  - {fileID: 11400000, guid: 8e109b76581e6e74d87d406ddf256a12, type: 2}
+  - {fileID: 11400000, guid: 35a9d08e1c8d6da4facfda6e4a5fac7f, type: 2}
+  - {fileID: 11400000, guid: 7b1943371687f6449bb8640cc29e69a0, type: 2}
+  - {fileID: 11400000, guid: de482c0514f878e44b04fe555968015c, type: 2}
+  - {fileID: 11400000, guid: fbd3fdb0a8cce424d92731c4f0feca96, type: 2}
+  - {fileID: 11400000, guid: 9a0938f30ad14864f872a692c2e75296, type: 2}
+  - {fileID: 11400000, guid: bc5e0c3ab48425b448ee30096f90d215, type: 2}
+  - {fileID: 11400000, guid: 950757618cee5614aa755531770c43e1, type: 2}
+  - {fileID: 11400000, guid: 56c55b685eb1df6459459fb4282b28e7, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 5.29229
+  isFictionalTestData: 0

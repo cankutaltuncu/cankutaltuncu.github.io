@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 29-gumushane
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 29
+  provinceId: tr-29
+  provinceNameKey: province.29
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 7c4f0ce50b7ee4d4ebb637af255a864b, type: 2}
+  - {fileID: 11400000, guid: b1a497225faae134cb835e8fd55792e3, type: 2}
+  - {fileID: 11400000, guid: eb7c4cb5f971fdb4aa815c016e83f01c, type: 2}
+  - {fileID: 11400000, guid: eecac9b8b16753e46aa32961d15559d5, type: 2}
+  - {fileID: 11400000, guid: a237ad6e6976eab48acfc4bb2b046ab4, type: 2}
+  - {fileID: 11400000, guid: 2c9387d47b5c18945a4e9574a6a84dc9, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 3.8960707
+  isFictionalTestData: 0

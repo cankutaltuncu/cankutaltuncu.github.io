@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 67-zonguldak
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 67
+  provinceId: tr-67
+  provinceNameKey: province.67
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: d05871e2a28d2934dabfee334482175c, type: 2}
+  - {fileID: 11400000, guid: 38ffec64f30f12541b23b5e68e36d9d1, type: 2}
+  - {fileID: 11400000, guid: 908816a8425568f41b20260a7df4eb14, type: 2}
+  - {fileID: 11400000, guid: f1a0a4f961c835e4db5911a6e17a1f60, type: 2}
+  - {fileID: 11400000, guid: 7c53d3ab1d936244cab7eaf7b8da097e, type: 2}
+  - {fileID: 11400000, guid: 000163e2e25300c41b7447f96a2b74fd, type: 2}
+  - {fileID: 11400000, guid: 939950bb6ccf09c46b5ccce6f368a8cb, type: 2}
+  - {fileID: 11400000, guid: 4ab57281f9f0fcd4d8a2e037c4fea8a2, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 2.884955
+  isFictionalTestData: 0

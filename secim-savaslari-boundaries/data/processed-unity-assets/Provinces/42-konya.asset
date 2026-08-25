@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 42-konya
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 42
+  provinceId: tr-42
+  provinceNameKey: province.42
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 530c2e91599391045940c3be870ee7eb, type: 2}
+  - {fileID: 11400000, guid: 32ba4555af8f50c40b3c223d3118b6aa, type: 2}
+  - {fileID: 11400000, guid: a5c96713e255c8a4ab081b78d89e685b, type: 2}
+  - {fileID: 11400000, guid: b9bd237c172328541a79bfd2275ba0c6, type: 2}
+  - {fileID: 11400000, guid: 1e75f77373fb04b4a8fefd2acb298f40, type: 2}
+  - {fileID: 11400000, guid: e040a3d805bd671419074d6f2cb28b06, type: 2}
+  - {fileID: 11400000, guid: 3d736297d22224b429109800c486d71e, type: 2}
+  - {fileID: 11400000, guid: ad088653658dd774f980ce32de9c9d68, type: 2}
+  - {fileID: 11400000, guid: cda919a7a6589044b9ab5e5644a198c8, type: 2}
+  - {fileID: 11400000, guid: 85eace43b81d9774c81346e704d78c7d, type: 2}
+  - {fileID: 11400000, guid: 8ae8b2a3c565bd249af39b05144681c3, type: 2}
+  - {fileID: 11400000, guid: 24d74e95c1b1a5840b9aa6d70e5102c4, type: 2}
+  - {fileID: 11400000, guid: 7bdb409937cc5414283ecbc7ba2934fd, type: 2}
+  - {fileID: 11400000, guid: bb5c7e61238f8fe498e5219e75254ce1, type: 2}
+  - {fileID: 11400000, guid: 9caf0d6362a6bf248b26c8c74b78eb22, type: 2}
+  - {fileID: 11400000, guid: cf339a2412b25394f8d716446b98cf2e, type: 2}
+  - {fileID: 11400000, guid: a307973e3ab8a764b9ef87c3a7c7122c, type: 2}
+  - {fileID: 11400000, guid: 829f851c720e69f4196a88a5d6236bca, type: 2}
+  - {fileID: 11400000, guid: 16800b58fbc5ab443811d587e7cbb48a, type: 2}
+  - {fileID: 11400000, guid: 78b8622c5de6ff3469196a6b363c1268, type: 2}
+  - {fileID: 11400000, guid: d14bea010b31aa74491962280bbd8a9d, type: 2}
+  - {fileID: 11400000, guid: 40fc3fec2a77ede40a616be90fb85acf, type: 2}
+  - {fileID: 11400000, guid: 27ca60f22a9d77f4a970fe163087486a, type: 2}
+  - {fileID: 11400000, guid: e5af1c497f442de4dbc1c20513008b55, type: 2}
+  - {fileID: 11400000, guid: 6dee7d0d536a43542af15efacdf4c8ba, type: 2}
+  - {fileID: 11400000, guid: 179c3b00278012d46852695c275771f3, type: 2}
+  - {fileID: 11400000, guid: 90231aa90dc52c94d9f219d3304bcad2, type: 2}
+  - {fileID: 11400000, guid: a00dff5d2f014564e80ceb04f2e3bfc4, type: 2}
+  - {fileID: 11400000, guid: 91be6c61787bec14e9bfff4c34aeaca3, type: 2}
+  - {fileID: 11400000, guid: a1790777997dcea48b6392a43b5af93f, type: 2}
+  - {fileID: 11400000, guid: ee481390f8d3cde458c1d3208fc87b56, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 9.152524
+  isFictionalTestData: 0

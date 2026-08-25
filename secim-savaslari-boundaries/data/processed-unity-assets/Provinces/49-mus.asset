@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 49-mus
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 49
+  provinceId: tr-49
+  provinceNameKey: province.49
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 06e32fc1c73dcc849b9cf02b20f467ac, type: 2}
+  - {fileID: 11400000, guid: d0ae494a1da117445afee85e01cc549c, type: 2}
+  - {fileID: 11400000, guid: 785952f7adfe5cf4289d3e24c2530555, type: 2}
+  - {fileID: 11400000, guid: 2dde6f0b589316a4585d90302925f387, type: 2}
+  - {fileID: 11400000, guid: 832db42f01c9b02408a7bec777a24981, type: 2}
+  - {fileID: 11400000, guid: 5c52be98f33ca904880811b246f2415d, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 4.631353
+  isFictionalTestData: 0

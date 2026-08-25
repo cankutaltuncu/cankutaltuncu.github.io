@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 73-sirnak
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 73
+  provinceId: tr-73
+  provinceNameKey: province.73
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 0a557f19b53405e408894a0e0f9c45bd, type: 2}
+  - {fileID: 11400000, guid: ee1e219d98ece18408c0f7333072ae61, type: 2}
+  - {fileID: 11400000, guid: 7a071da3f53cfca48ac00cb291c1f990, type: 2}
+  - {fileID: 11400000, guid: e99e7c7409823ef43b3c7af46af957fa, type: 2}
+  - {fileID: 11400000, guid: 34e813b1d58a74742b81cf856cbfb246, type: 2}
+  - {fileID: 11400000, guid: 6515a42d62991e048b7b28c8f33da8b5, type: 2}
+  - {fileID: 11400000, guid: e87ae2442e0ca52449f33f9be619e34f, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 5.6266704
+  isFictionalTestData: 0

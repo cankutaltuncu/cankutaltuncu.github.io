@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 07-antalya
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 7
+  provinceId: tr-07
+  provinceNameKey: province.07
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: cd598892e58332445bbebdcdb7169f78, type: 2}
+  - {fileID: 11400000, guid: 4836f2018cf894d45a9e4f767e071179, type: 2}
+  - {fileID: 11400000, guid: 8285657092e34a747ae1a3dfb2ec5fd1, type: 2}
+  - {fileID: 11400000, guid: a28fb461ddf596a41bdbbd3be64a8041, type: 2}
+  - {fileID: 11400000, guid: a117740265f3d314fa9368820453fcde, type: 2}
+  - {fileID: 11400000, guid: e4977bbacbfaaac4597439a4213fa96c, type: 2}
+  - {fileID: 11400000, guid: 38093d101b390b14c8d9fc8c6f1caa47, type: 2}
+  - {fileID: 11400000, guid: 6df7dea220730eb47ad1c017610d59c5, type: 2}
+  - {fileID: 11400000, guid: 267a044d11193064d93d5edb13f02bfc, type: 2}
+  - {fileID: 11400000, guid: 2209f4be811656f4a9a4b3610461d002, type: 2}
+  - {fileID: 11400000, guid: d5ccd9fde6f7f114abe46c49583274b9, type: 2}
+  - {fileID: 11400000, guid: 5e5b42c97de345e4884b19f09292616d, type: 2}
+  - {fileID: 11400000, guid: 29b93815ff44e6b4ba8074b2f24c1e90, type: 2}
+  - {fileID: 11400000, guid: 0444fa3574fe206459014612a0858911, type: 2}
+  - {fileID: 11400000, guid: 77d981b8c74df6b409abc87eb395d3ab, type: 2}
+  - {fileID: 11400000, guid: 433716683a1ce6147a4be93cacbc0d37, type: 2}
+  - {fileID: 11400000, guid: 7a72fa1c8a26cfb4fabe4dcc50f8497d, type: 2}
+  - {fileID: 11400000, guid: 43e9992857fe7cb4a91c73cfb9728193, type: 2}
+  - {fileID: 11400000, guid: c90e0db7eb0e7c7439f441225087df7f, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 9.681301
+  isFictionalTestData: 0

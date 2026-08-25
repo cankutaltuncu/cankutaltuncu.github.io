@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12391ba6eb3aed347bde0168fe48e3c0, type: 3}
+  m_Name: tr-34-bayrampasa
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.DistrictData
+  districtId: tr-34-bayrampasa
+  districtNameKey: district.tr-34-bayrampasa
+  neighboringDistrictIds:
+  - tr-34-eyupsultan
+  - tr-34-gaziosmanpasa
+  - tr-34-zeytinburnu
+  - tr-34-esenler
+  labelPosition: {x: -0.19716123, y: -0.42525086}
+  transferOrigin: {x: -0.19716123, y: -0.42525086}
+  baseStartingSupport: 10
+  productionMultiplier: 1
+  supportsMultiplePolygons: 0
+  polygon:
+  - {x: -0.16165352, y: -0.41707993}
+  - {x: -0.1933651, y: -0.3767166}
+  - {x: -0.25831604, y: -0.34007263}
+  - {x: -0.25916862, y: -0.35878372}
+  - {x: -0.23727036, y: -0.39356232}
+  - {x: -0.23978233, y: -0.4409752}
+  - {x: -0.22781754, y: -0.4584732}
+  - {x: -0.20912933, y: -0.46577454}
+  - {x: -0.19727325, y: -0.48877716}
+  - {x: -0.15857506, y: -0.47442627}
+  - {x: -0.1346283, y: -0.494442}
+  - {x: -0.1219368, y: -0.48628235}
+  - {x: -0.14496231, y: -0.45465088}
+  - {x: -0.1476345, y: -0.4428749}
+  - {x: -0.13894272, y: -0.4448433}
+  polygonParts:
+  - outer:
+    - {x: -0.16165352, y: -0.41707993}
+    - {x: -0.1933651, y: -0.3767166}
+    - {x: -0.25831604, y: -0.34007263}
+    - {x: -0.25916862, y: -0.35878372}
+    - {x: -0.23727036, y: -0.39356232}
+    - {x: -0.23978233, y: -0.4409752}
+    - {x: -0.22781754, y: -0.4584732}
+    - {x: -0.20912933, y: -0.46577454}
+    - {x: -0.19727325, y: -0.48877716}
+    - {x: -0.15857506, y: -0.47442627}
+    - {x: -0.1346283, y: -0.494442}
+    - {x: -0.1219368, y: -0.48628235}
+    - {x: -0.14496231, y: -0.45465088}
+    - {x: -0.1476345, y: -0.4428749}
+    - {x: -0.13894272, y: -0.4448433}
+    holes: []

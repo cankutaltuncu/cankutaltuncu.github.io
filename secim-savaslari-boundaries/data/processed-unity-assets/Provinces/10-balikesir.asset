@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 10-balikesir
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 10
+  provinceId: tr-10
+  provinceNameKey: province.10
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 76ba401fcc5c00b479fa56456cc1682e, type: 2}
+  - {fileID: 11400000, guid: b8230d2583657b84d9f0949cf404ff24, type: 2}
+  - {fileID: 11400000, guid: 8e2409d7ce6bc8d45afd87a9c95898ef, type: 2}
+  - {fileID: 11400000, guid: e8835b9c348a4d44889fc16503a83af6, type: 2}
+  - {fileID: 11400000, guid: 70a4e4cd111c25241a09ab84bd69ea11, type: 2}
+  - {fileID: 11400000, guid: 9648ea78fe771f448a960d0d68e863b4, type: 2}
+  - {fileID: 11400000, guid: 7a627b165b536f148993037c869ab86a, type: 2}
+  - {fileID: 11400000, guid: bc01470592385a64ea7ced5a6e3ff311, type: 2}
+  - {fileID: 11400000, guid: 660b1517b0599544bb93d6c8e0f9e7b4, type: 2}
+  - {fileID: 11400000, guid: be98457de8154234c8e741996c4fb4e6, type: 2}
+  - {fileID: 11400000, guid: 5040caaaf2476d5408acfb597874c69d, type: 2}
+  - {fileID: 11400000, guid: e784d4896d2d6b94392f6ebbae0d2a98, type: 2}
+  - {fileID: 11400000, guid: 0a9ae51a542b739489ba4232103c48cd, type: 2}
+  - {fileID: 11400000, guid: dc2e35847b99a7148a23ec039f5f2e90, type: 2}
+  - {fileID: 11400000, guid: 5386d47102ed9bc4297889c9b2b9ef13, type: 2}
+  - {fileID: 11400000, guid: 959d33bec27a2e04d96aae49e2e81426, type: 2}
+  - {fileID: 11400000, guid: b57bfda8e4c0cb64d9a4f5a44e221f3e, type: 2}
+  - {fileID: 11400000, guid: 0822422a523fe564ba997f033cc6fcc9, type: 2}
+  - {fileID: 11400000, guid: cf040b3ba61088f4e97ff9bd64812598, type: 2}
+  - {fileID: 11400000, guid: ea50336f47864bd49b96ad1a80a2f8c2, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 7.125771
+  isFictionalTestData: 0

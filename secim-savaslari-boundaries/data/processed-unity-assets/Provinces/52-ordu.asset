@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 52-ordu
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 52
+  provinceId: tr-52
+  provinceNameKey: province.52
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: e933c6a8688a7924696b3bc8c83a85a9, type: 2}
+  - {fileID: 11400000, guid: 90bcd13b91da6a1468f20e8c7429349d, type: 2}
+  - {fileID: 11400000, guid: 601ae36469a345e4282b05e85338ad77, type: 2}
+  - {fileID: 11400000, guid: 02edbe34558b1cb43a03b78eb60fe809, type: 2}
+  - {fileID: 11400000, guid: d9cbe40d8792e9b4f8ddcbaf480d3b2e, type: 2}
+  - {fileID: 11400000, guid: 99a7066aede2f194d8498b0230def416, type: 2}
+  - {fileID: 11400000, guid: afeec2dc41fdc834f8b6949e20012070, type: 2}
+  - {fileID: 11400000, guid: c97189a230684764fa52c92e9f7438ba, type: 2}
+  - {fileID: 11400000, guid: 7e735e76b49e2ab4aa201aa070ad0910, type: 2}
+  - {fileID: 11400000, guid: 563f2dc07d8c2024ab8c6412849279e5, type: 2}
+  - {fileID: 11400000, guid: c764b20831bc45a408080fd970a64df4, type: 2}
+  - {fileID: 11400000, guid: db656989c7993d74ea5f10e21ceb35b3, type: 2}
+  - {fileID: 11400000, guid: df7ce0459fb0fb54bbbe1c05cf2c1308, type: 2}
+  - {fileID: 11400000, guid: ab238f11979163445a431de42ddca88b, type: 2}
+  - {fileID: 11400000, guid: 94b68b8c582deaa4eb03d3ce19256227, type: 2}
+  - {fileID: 11400000, guid: e9db48c15091df547bb79b81f1d2c22c, type: 2}
+  - {fileID: 11400000, guid: 09dabd6cea365f7469215b2e82b805c3, type: 2}
+  - {fileID: 11400000, guid: 6166cf3d5bc6bb343a912995e2055060, type: 2}
+  - {fileID: 11400000, guid: fc326d20fd961f945a795c00f0b849e5, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 4.12886
+  isFictionalTestData: 0

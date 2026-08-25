@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 30-hakkari
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 30
+  provinceId: tr-30
+  provinceNameKey: province.30
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: a63d9fe76c2af264d978fb28d1bdf3e2, type: 2}
+  - {fileID: 11400000, guid: 355c5d850f90b3a419e57edb6f7b172c, type: 2}
+  - {fileID: 11400000, guid: b74f02bb484cd334fae83ce85265262d, type: 2}
+  - {fileID: 11400000, guid: dc5ae1d22d1fd164bb3c45fb628714e7, type: 2}
+  - {fileID: 11400000, guid: df18043f00242d34498f8ed8436de1cb, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 4.3437967
+  isFictionalTestData: 0

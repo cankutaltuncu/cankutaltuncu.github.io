@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 46-kahramanmaras
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 46
+  provinceId: tr-46
+  provinceNameKey: province.46
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: c4b36bfecd5985f41b0ed720c34da1ae, type: 2}
+  - {fileID: 11400000, guid: 07de88eff190bb84596145ab60326c1c, type: 2}
+  - {fileID: 11400000, guid: 3fa31bf8730940d4686e19fd6f5f2116, type: 2}
+  - {fileID: 11400000, guid: f39fd75fa90181b45aa6f59a0b889550, type: 2}
+  - {fileID: 11400000, guid: 650ac0bbb21e4ba41a414fa2b3e5a532, type: 2}
+  - {fileID: 11400000, guid: f4706858aba800348aecf56612ae2c27, type: 2}
+  - {fileID: 11400000, guid: 40d6f80d53da156479513578254f0d1e, type: 2}
+  - {fileID: 11400000, guid: 7fc039e0f98967042a5bf7ad1714a7ce, type: 2}
+  - {fileID: 11400000, guid: 7e29501c1f72a37468c1542fe4dce9c2, type: 2}
+  - {fileID: 11400000, guid: b6e574a4a5a471040a562d108596b663, type: 2}
+  - {fileID: 11400000, guid: 3b3be3230b5770d40a6f057a572139f4, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 4.4657006
+  isFictionalTestData: 0

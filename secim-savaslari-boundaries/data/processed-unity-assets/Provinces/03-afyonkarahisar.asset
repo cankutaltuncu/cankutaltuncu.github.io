@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 03-afyonkarahisar
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 3
+  provinceId: tr-03
+  provinceNameKey: province.03
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 012888abd86693a46b688896ad8dac05, type: 2}
+  - {fileID: 11400000, guid: 3081fefdd8139a747afd069d0f9dd69f, type: 2}
+  - {fileID: 11400000, guid: 6171620f4f1110540bc0cd4ea355053a, type: 2}
+  - {fileID: 11400000, guid: 3bd5c07a2905c0c439d1bc574d79bb25, type: 2}
+  - {fileID: 11400000, guid: 62c90f8fcc9ef524bb03c6bf77b6f3ef, type: 2}
+  - {fileID: 11400000, guid: ea92178c98ca56c41868c0fda6d15b49, type: 2}
+  - {fileID: 11400000, guid: 116eb2808555e734ca0bfb983580085b, type: 2}
+  - {fileID: 11400000, guid: e004f77183aa7c14083b7e51ccba723d, type: 2}
+  - {fileID: 11400000, guid: 7c5280a1944bf4449a9df37d0eb90b07, type: 2}
+  - {fileID: 11400000, guid: 17841743f2142734e874c33dbf72cee6, type: 2}
+  - {fileID: 11400000, guid: b101834071794034b90c40e36df635f4, type: 2}
+  - {fileID: 11400000, guid: 30961c4705546dd4a8ef0d8dbd2dec0d, type: 2}
+  - {fileID: 11400000, guid: 5d59e35f6bcc33a4f8bf0c27743a49e3, type: 2}
+  - {fileID: 11400000, guid: 5a4323a309904e045800621822ea80a0, type: 2}
+  - {fileID: 11400000, guid: e71b542b95a73544f8cc2bbb0f9f8f05, type: 2}
+  - {fileID: 11400000, guid: b2b90c2572f40a24aac39077d134115a, type: 2}
+  - {fileID: 11400000, guid: 4f4963b3d49b9fb4fbb2a0ae2d5d38ff, type: 2}
+  - {fileID: 11400000, guid: 5aacefb254811304cb13a6bc2557063b, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 5.97052
+  isFictionalTestData: 0

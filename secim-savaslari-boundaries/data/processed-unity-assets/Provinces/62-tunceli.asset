@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 62-tunceli
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 62
+  provinceId: tr-62
+  provinceNameKey: province.62
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 445f0a84503d7f047a5d9f476e106971, type: 2}
+  - {fileID: 11400000, guid: e22220f25f63e0940b911f08735f4391, type: 2}
+  - {fileID: 11400000, guid: 40e95e8bb7fb1994c9b557b9a0101094, type: 2}
+  - {fileID: 11400000, guid: 2c4a36dbff61cae47919aed9346d485d, type: 2}
+  - {fileID: 11400000, guid: 450365098509f644f8e4a38187f40462, type: 2}
+  - {fileID: 11400000, guid: 6c55e46efbc68e243a8a6f32f536ad5a, type: 2}
+  - {fileID: 11400000, guid: 72a29c3316f7ad0418afbba952fbfb3c, type: 2}
+  - {fileID: 11400000, guid: e9cc6be3937913b4c97901e53fd7155f, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 4.8150883
+  isFictionalTestData: 0

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 40-kirsehir
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 40
+  provinceId: tr-40
+  provinceNameKey: province.40
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 1b8f0104e28d4644fba20c36da9b7a20, type: 2}
+  - {fileID: 11400000, guid: f7655be951eb4ea4197623a6c478ec79, type: 2}
+  - {fileID: 11400000, guid: bac4a31ecdcfb344bae172722155f600, type: 2}
+  - {fileID: 11400000, guid: 8f28f8f35a5b65a43bd837c1a37f58dc, type: 2}
+  - {fileID: 11400000, guid: 4efa17e941010f24986182248f235ecc, type: 2}
+  - {fileID: 11400000, guid: f91af4b9147658e438392048d24be756, type: 2}
+  - {fileID: 11400000, guid: bed9c979655394f40aa55c184b641811, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 3.7397022
+  isFictionalTestData: 0

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 72-batman
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 72
+  provinceId: tr-72
+  provinceNameKey: province.72
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 0dcbd497eafed904fa0a68c82f458802, type: 2}
+  - {fileID: 11400000, guid: 7b1b58004348aba408498a8b899f57f3, type: 2}
+  - {fileID: 11400000, guid: 5f1f1c45f952dce43a20744fe1352726, type: 2}
+  - {fileID: 11400000, guid: 03fa6c1e406aae248abbeda49dc7d3ee, type: 2}
+  - {fileID: 11400000, guid: 8497dd47bce482b4097501b7658a5ad9, type: 2}
+  - {fileID: 11400000, guid: ed3871af12eca30429400202e22d6f19, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 2.75
+  isFictionalTestData: 0

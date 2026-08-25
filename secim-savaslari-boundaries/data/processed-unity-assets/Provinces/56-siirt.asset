@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 56-siirt
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 56
+  provinceId: tr-56
+  provinceNameKey: province.56
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 4d4e565984966f6498a49b82d41f9723, type: 2}
+  - {fileID: 11400000, guid: 1471391b7bba20844993f0cd1689c484, type: 2}
+  - {fileID: 11400000, guid: f15efca5db4f41e4caa98d6ba2bbf7e2, type: 2}
+  - {fileID: 11400000, guid: dcd3b633739174440bcb845ee1ad2557, type: 2}
+  - {fileID: 11400000, guid: e78948cb47688c046819ceb9a4cd19a2, type: 2}
+  - {fileID: 11400000, guid: c4b708e201d2eb441978666fc3c0389d, type: 2}
+  - {fileID: 11400000, guid: a53001dedb054a443bb36221ad6d0fe4, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 4.3862586
+  isFictionalTestData: 0

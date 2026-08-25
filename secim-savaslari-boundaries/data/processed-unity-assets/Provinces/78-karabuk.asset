@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 78-karabuk
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 78
+  provinceId: tr-78
+  provinceNameKey: province.78
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: d0aca15a9187a764290017a4fc75e49e, type: 2}
+  - {fileID: 11400000, guid: e902bd0754dafe847a18c6c20c77cefd, type: 2}
+  - {fileID: 11400000, guid: 2f708a6e61125284a9174ba9b9291668, type: 2}
+  - {fileID: 11400000, guid: 24946ed38c9f53044b39d081c8462d44, type: 2}
+  - {fileID: 11400000, guid: 802927c1750c43b44968aba40e186cea, type: 2}
+  - {fileID: 11400000, guid: 89ab99fc994c61c4da45e12711ca20a7, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 3.3508742
+  isFictionalTestData: 0

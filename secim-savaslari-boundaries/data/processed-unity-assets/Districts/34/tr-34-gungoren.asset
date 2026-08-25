@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12391ba6eb3aed347bde0168fe48e3c0, type: 3}
+  m_Name: tr-34-gungoren
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.DistrictData
+  districtId: tr-34-gungoren
+  districtNameKey: district.tr-34-gungoren
+  neighboringDistrictIds:
+  - tr-34-bakirkoy
+  - tr-34-bagcilar
+  - tr-34-bahcelievler
+  - tr-34-zeytinburnu
+  - tr-34-esenler
+  labelPosition: {x: -0.2555627, y: -0.51635516}
+  transferOrigin: {x: -0.2555627, y: -0.51635516}
+  baseStartingSupport: 10
+  productionMultiplier: 1
+  supportsMultiplePolygons: 0
+  polygon:
+  - {x: -0.20662308, y: -0.55186844}
+  - {x: -0.19484138, y: -0.53162384}
+  - {x: -0.19271278, y: -0.5091362}
+  - {x: -0.2342205, y: -0.51971054}
+  - {x: -0.2382145, y: -0.50411224}
+  - {x: -0.22291374, y: -0.48231125}
+  - {x: -0.23810577, y: -0.46996307}
+  - {x: -0.26502228, y: -0.47641754}
+  - {x: -0.28081512, y: -0.45661926}
+  - {x: -0.2775364, y: -0.48893738}
+  - {x: -0.3171959, y: -0.48576736}
+  - {x: -0.30508232, y: -0.514801}
+  - {x: -0.3140316, y: -0.5192871}
+  - {x: -0.2826748, y: -0.55321884}
+  - {x: -0.27046394, y: -0.5475998}
+  - {x: -0.2520733, y: -0.52236557}
+  - {x: -0.25004768, y: -0.5532303}
+  - {x: -0.23996544, y: -0.56770706}
+  polygonParts:
+  - outer:
+    - {x: -0.20662308, y: -0.55186844}
+    - {x: -0.19484138, y: -0.53162384}
+    - {x: -0.19271278, y: -0.5091362}
+    - {x: -0.2342205, y: -0.51971054}
+    - {x: -0.2382145, y: -0.50411224}
+    - {x: -0.22291374, y: -0.48231125}
+    - {x: -0.23810577, y: -0.46996307}
+    - {x: -0.26502228, y: -0.47641754}
+    - {x: -0.28081512, y: -0.45661926}
+    - {x: -0.2775364, y: -0.48893738}
+    - {x: -0.3171959, y: -0.48576736}
+    - {x: -0.30508232, y: -0.514801}
+    - {x: -0.3140316, y: -0.5192871}
+    - {x: -0.2826748, y: -0.55321884}
+    - {x: -0.27046394, y: -0.5475998}
+    - {x: -0.2520733, y: -0.52236557}
+    - {x: -0.25004768, y: -0.5532303}
+    - {x: -0.23996544, y: -0.56770706}
+    holes: []

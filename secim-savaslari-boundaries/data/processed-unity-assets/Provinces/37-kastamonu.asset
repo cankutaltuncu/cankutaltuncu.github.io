@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 37-kastamonu
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 37
+  provinceId: tr-37
+  provinceNameKey: province.37
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 0fa7bece8e23e6e4cb4c42e2a875611c, type: 2}
+  - {fileID: 11400000, guid: acca60e21523a054f88ea408f179a910, type: 2}
+  - {fileID: 11400000, guid: 3349ac10fae3fd647bbb7c11da54936b, type: 2}
+  - {fileID: 11400000, guid: 1f0084d8d82a8e04a90543a21a680f67, type: 2}
+  - {fileID: 11400000, guid: 07a1107954cb5864ca18d03440f25c2f, type: 2}
+  - {fileID: 11400000, guid: a1812c125713f114095860058165d8bd, type: 2}
+  - {fileID: 11400000, guid: 8085051e1183de94cace5ce3b32b51ca, type: 2}
+  - {fileID: 11400000, guid: 43f239cee3104434b94d85da4cf7a551, type: 2}
+  - {fileID: 11400000, guid: 6894123aea9818249b3a3db2bdac068d, type: 2}
+  - {fileID: 11400000, guid: 55c1b1d6489633940bf1bb0a02a9caa0, type: 2}
+  - {fileID: 11400000, guid: 183093ffe9a63a44cbafe67e1ea4ee7f, type: 2}
+  - {fileID: 11400000, guid: 773adf709e028a848be7e6438537f1d6, type: 2}
+  - {fileID: 11400000, guid: e0086073f85f41a419d0c3a14d50697c, type: 2}
+  - {fileID: 11400000, guid: 814db8069c5053e498d91a2d402e370d, type: 2}
+  - {fileID: 11400000, guid: 38c6c60b160111541a4f55ec20e97388, type: 2}
+  - {fileID: 11400000, guid: 272724209ada9344c9b6dda3f1614b5b, type: 2}
+  - {fileID: 11400000, guid: b9b879660b933254580b90e09cb3ce45, type: 2}
+  - {fileID: 11400000, guid: 74be1ac207e3d10429f49a6119b401ec, type: 2}
+  - {fileID: 11400000, guid: 2a244a661d876d74a831fabddf027479, type: 2}
+  - {fileID: 11400000, guid: 480830bfea6edc94caa0683b9340aba3, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 5.356725
+  isFictionalTestData: 0

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 51-nigde
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 51
+  provinceId: tr-51
+  provinceNameKey: province.51
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 6b13d154304ccc448a455a84339961eb, type: 2}
+  - {fileID: 11400000, guid: 77500d009eb43ee4eac2c01266731675, type: 2}
+  - {fileID: 11400000, guid: c1a2585d5bf8ae148a8ef0268e50b34f, type: 2}
+  - {fileID: 11400000, guid: ef3213bd1ed87f34eb48ce0cefc8d66e, type: 2}
+  - {fileID: 11400000, guid: 3c34c5adfcc3c4c47b44917d1adb5126, type: 2}
+  - {fileID: 11400000, guid: 04962dc3dac423e45ad07ea48bdd1d2d, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 3.8464346
+  isFictionalTestData: 0

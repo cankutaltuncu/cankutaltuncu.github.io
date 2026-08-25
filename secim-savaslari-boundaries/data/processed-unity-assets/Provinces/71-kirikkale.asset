@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 71-kirikkale
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 71
+  provinceId: tr-71
+  provinceNameKey: province.71
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 36d06310c42d1bf48a72fd911ba949dc, type: 2}
+  - {fileID: 11400000, guid: 67b4c6cc114490640bb62bbca555b101, type: 2}
+  - {fileID: 11400000, guid: 916206b5b032b5a40ad504d9b4fb9166, type: 2}
+  - {fileID: 11400000, guid: bf259841bd35c724e97c46ca07ab8d10, type: 2}
+  - {fileID: 11400000, guid: 45225790b46b82241a2d330f78a59c83, type: 2}
+  - {fileID: 11400000, guid: 6d89e31c9e85b9e428c91a76a149607f, type: 2}
+  - {fileID: 11400000, guid: 6a58595fb76697e479b6eca7e458f812, type: 2}
+  - {fileID: 11400000, guid: a63cd0563c9ebb24b8177bdac30f951f, type: 2}
+  - {fileID: 11400000, guid: 8ca2018e88ef2db46ae1bd33603b924a, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 2.943512
+  isFictionalTestData: 0

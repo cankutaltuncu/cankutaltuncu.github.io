@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c969c386ce5ae4aa98358781d6e55d, type: 3}
+  m_Name: 77-yalova
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.ProvinceData
+  plateCode: 77
+  provinceId: tr-77
+  provinceNameKey: province.77
+  optimizedMapData: {fileID: 0}
+  districts:
+  - {fileID: 11400000, guid: 0a41039f4a797ea4ea99bcd3b467e006, type: 2}
+  - {fileID: 11400000, guid: c742227d6703ae3458274ebc82306689, type: 2}
+  - {fileID: 11400000, guid: 49666979724b85d448375174412a226a, type: 2}
+  - {fileID: 11400000, guid: 262302576431ced4c96072241a3020c9, type: 2}
+  - {fileID: 11400000, guid: 0e00aba62d3eec049842826a0c1737e9, type: 2}
+  - {fileID: 11400000, guid: d5521e62287d93d49880df321a34218f, type: 2}
+  campaignPoints: []
+  difficulty: {fileID: 0}
+  cameraCenter: {x: 0, y: 0}
+  cameraZoom: 2.75
+  isFictionalTestData: 0

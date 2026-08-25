@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12391ba6eb3aed347bde0168fe48e3c0, type: 3}
+  m_Name: tr-34-zeytinburnu
+  m_EditorClassIdentifier: GoldenGamess.SelectionWars::GoldenGamess.SelectionWars.Data.DistrictData
+  districtId: tr-34-zeytinburnu
+  districtNameKey: district.tr-34-zeytinburnu
+  neighboringDistrictIds:
+  - tr-34-bakirkoy
+  - tr-34-eyupsultan
+  - tr-34-gungoren
+  - tr-34-bayrampasa
+  - tr-34-fatih
+  - tr-34-esenler
+  labelPosition: {x: -0.17017259, y: -0.55627036}
+  transferOrigin: {x: -0.17017259, y: -0.55627036}
+  baseStartingSupport: 10
+  productionMultiplier: 1
+  supportsMultiplePolygons: 0
+  polygon:
+  - {x: -0.21897125, y: -0.60430527}
+  - {x: -0.2246418, y: -0.6255226}
+  - {x: -0.21940613, y: -0.63840866}
+  - {x: -0.21513176, y: -0.6315079}
+  - {x: -0.22049332, y: -0.6288872}
+  - {x: -0.18720818, y: -0.6343918}
+  - {x: -0.13708878, y: -0.60834503}
+  - {x: -0.12913513, y: -0.5236931}
+  - {x: -0.106292725, y: -0.49829865}
+  - {x: -0.1219368, y: -0.48628235}
+  - {x: -0.1346283, y: -0.494442}
+  - {x: -0.15857506, y: -0.47442627}
+  - {x: -0.19727325, y: -0.48877716}
+  - {x: -0.19484138, y: -0.53162384}
+  - {x: -0.21892548, y: -0.57250214}
+  - {x: -0.2118988, y: -0.58506775}
+  polygonParts:
+  - outer:
+    - {x: -0.21897125, y: -0.60430527}
+    - {x: -0.2246418, y: -0.6255226}
+    - {x: -0.21940613, y: -0.63840866}
+    - {x: -0.21513176, y: -0.6315079}
+    - {x: -0.22049332, y: -0.6288872}
+    - {x: -0.18720818, y: -0.6343918}
+    - {x: -0.13708878, y: -0.60834503}
+    - {x: -0.12913513, y: -0.5236931}
+    - {x: -0.106292725, y: -0.49829865}
+    - {x: -0.1219368, y: -0.48628235}
+    - {x: -0.1346283, y: -0.494442}
+    - {x: -0.15857506, y: -0.47442627}
+    - {x: -0.19727325, y: -0.48877716}
+    - {x: -0.19484138, y: -0.53162384}
+    - {x: -0.21892548, y: -0.57250214}
+    - {x: -0.2118988, y: -0.58506775}
+    holes: []
